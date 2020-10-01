@@ -1,1 +1,1 @@
-message = input ("Write a message please.")
+message = ("Write a message please.")
